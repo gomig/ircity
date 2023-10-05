@@ -1,4 +1,4 @@
-package ircities
+package ircity
 
 // States get all states list
 func States() []StateType {

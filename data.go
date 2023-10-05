@@ -1,4 +1,4 @@
-package ircities
+package ircity
 
 type StateType struct {
 	Code uint   `json:"code"`

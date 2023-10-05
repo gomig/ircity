@@ -1,3 +1,3 @@
-module github.com/gomig/ircities
+module github.com/gomig/ircity
 
 go 1.21

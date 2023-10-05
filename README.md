@@ -1,4 +1,4 @@
-# IRCities
+# IrCity
 
 In-memory iran state and cities database
 
